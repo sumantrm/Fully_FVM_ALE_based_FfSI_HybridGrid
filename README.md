@@ -21,7 +21,7 @@ To install mpi (OpenMPI)
 sudo apt install mpich
 ```
 
-# How to complie and run the code
+# How to compile and run the code
 
 To compile the code
 
